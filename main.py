@@ -25,7 +25,6 @@ scissors = '''
 ---.__(___)
 '''
 
-#Write your code below this line 👇
 import random
 gestures = [rock, paper, scissors]
 choice = len(gestures)
